@@ -4,6 +4,6 @@ SOLID 중에서 개방패쇄 원칙 (OCP) 의존 역전 원칙(DIP)을 따른다
 
 
 반드시 3가지가 필요
-1.전략 메소드를 가진 전략 객체(NormalStrategy, Base64Strategy, AppendStrategy)
-2.전략 객체를 사용하는 컨텍스트(Encoder)
-3.전략 객체를 생성해 컨텍스트에 주입하는 클라이언트(main)
+#### 1.전략 메소드를 가진 전략 객체(NormalStrategy, Base64Strategy, AppendStrategy)
+#### 2.전략 객체를 사용하는 컨텍스트(Encoder)
+#### 3.전략 객체를 생성해 컨텍스트에 주입하는 클라이언트(main)
