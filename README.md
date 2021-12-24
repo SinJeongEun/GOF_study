@@ -7,7 +7,7 @@
   - ### [**Adaptor pattern**](https://github.com/SinJeongEun/GOF_study/tree/master/designPattern2)
 
   - ### [**proxy pattern**](https://github.com/SinJeongEun/GOF_study/tree/master/proxy_pattern/proxy)
-    - ###[**AOP**](https://github.com/SinJeongEun/GOF_study/tree/master/proxy_pattern/aop)
+    - ### [**AOP**](https://github.com/SinJeongEun/GOF_study/tree/master/proxy_pattern/aop)
 
   - ### [**decorator pattern**](https://github.com/SinJeongEun/GOF_study/tree/master/decoratorPattern)
 
