@@ -1,24 +1,24 @@
 - # 생성패턴
 
-  - ### singleton pattern
-
+  - ### [**singleton pattern**](https://github.com/SinJeongEun/GOF_study/tree/master/out/production/designPattern/com/company/designPattern/singleton)
 
 - ## 구조패턴
 
-  - ### Adaptor pattern
+  - ### [**Adaptor pattern**](https://github.com/SinJeongEun/GOF_study/tree/master/designPattern2)
 
-  - ### proxy pattern
+  - ### [**proxy pattern**](https://github.com/SinJeongEun/GOF_study/tree/master/proxy_pattern/proxy)
+    - ###[**AOP**](https://github.com/SinJeongEun/GOF_study/tree/master/proxy_pattern/aop)
 
-  - ### decorator pattern
+  - ### [**decorator pattern**](https://github.com/SinJeongEun/GOF_study/tree/master/decoratorPattern)
 
-  - ### facade pattern
+  - ### [**facade pattern**](https://github.com/SinJeongEun/GOF_study/tree/master/facade)
 
 
 - ## 행위패턴
 
-  - ### observer pattern
+  - ### [**observer pattern**](https://github.com/SinJeongEun/GOF_study/tree/master/observer)
 
-  - ### strategy pattern
+  - ### [**strategy pattern**](https://github.com/SinJeongEun/GOF_study/tree/master/strategy)
 
     
 
