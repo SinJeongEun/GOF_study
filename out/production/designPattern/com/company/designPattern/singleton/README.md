@@ -4,4 +4,5 @@ singleton은 자기 자신을 객체로 가져야 함.
 
 **기본생성자를 private**으로 막아야 함.(기본생성자로 생성 불가능하도록)
 
-**static 메소드**로 getInstance 메소드 **제공**해야 함.
+**static 메소드**로 getInstance 메소드 **제공**해야 함(객체
+생성 함수)
