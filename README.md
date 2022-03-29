@@ -1,7 +1,6 @@
 - # 생성패턴
 
-  - ### [**singleton pattern**](https://github.com/SinJeongEun/GOF_study/tree/master/out/production/designPattern/com/company/designPattern/singleton)
-
+  - ### [**singleton pattern**](https://github.com/SinJeongEun/GOF_study/tree/master/src/com/company/designPattern/singleton)
 - ## 구조패턴
 
   - ### [**Adaptor pattern**](https://github.com/SinJeongEun/GOF_study/tree/master/designPattern2)
